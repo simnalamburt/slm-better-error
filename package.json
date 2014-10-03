@@ -28,7 +28,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "esprima": "^1.2.2"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/slm-lang/slm.git"
